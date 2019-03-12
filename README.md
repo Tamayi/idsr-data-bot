@@ -1,2 +1,2 @@
-# idsr-data-bot
-A chatbot showing how we can collect and aggregate data by analysing and parsing text messages sent through mobile text messaging apps
+# Data Collection for Public Health using a Chatbot
+This project is a quick proof-of-concept chatbot showing how we can collect and aggregate data by analysing and parsing text messages sent through mobile text messaging apps. There are many communities that share data via groups on WhatsApp, Telegram, Messenger. This bot can help to avoid the tedious process of transcribing data from these messages onto other databases or spreadsheets for reporting.
